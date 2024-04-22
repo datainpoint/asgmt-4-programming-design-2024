@@ -1,5 +1,5 @@
-# asgmt-3-programming-design-2024
-Assignment 3: Programming Design 2024.
+# asgmt-4-programming-design-2024
+Assignment 4: Programming Design 2024.
 
 ## 01. Define a class `Pet` which instantiates objects with 1 attribute `species` and 1 method `make_sound()`.
 
